@@ -48,11 +48,15 @@ cd odoo-18-docker
 ### 2. Levanta los Contenedores
 
 Para iniciar los contenedores de Odoo y PostgreSQL, ejecuta:
+en linux 
 
 ```bash
 ./run.sh
 ```
-
+en windows 
+```bash
+./run.bat
+```
 Esto iniciará los contenedores en segundo plano.
 
 ### 3. Acceso a Odoo
